@@ -1,0 +1,21 @@
+ famousplaces-information: 
+   - name: taj mahal
+     visitors: 237800
+     emailid: famousplaces@gmail.com
+
+   - name1: leaning tower of pisa
+     visitors: 1455768
+     emailid: efbiewhfbf@comcom
+
+
+ famousplaces-information2: 
+   - name: opera house
+     visitors: 23789000
+     emailid: alina07@gmail.com
+
+   - name1: lal Qila
+     visitors: 14557777
+     emailid: efbiewhf@comcom
+
+#employee-information.name == ali, alina
+#employee-information_batch2.sapid == 

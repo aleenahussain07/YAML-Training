@@ -1,0 +1,11 @@
+---
+  famousplaces-information: 
+   - name: opera house
+     visitors: 23789000
+     emailid: alina07@gmail.com
+
+   - name1: lal Qila
+     visitors: 14557777
+     emailid: efbiewhf@comcom
+
+...

@@ -1,0 +1,13 @@
+#real file
+windowsVersion: v1
+data:
+  name: windows
+  services:
+    app: office
+msoffice:
+  containers:
+  - name: windows-office
+    localdisk: D
+    
+    command: ["/bin/sh"]
+    cmd: ["python version/ipconfig"]

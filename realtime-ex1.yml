@@ -1,0 +1,8 @@
+command:
+ - cd/etc/
+ - sh
+ - -c
+ .
+ #conditions
+ - if
+ - else

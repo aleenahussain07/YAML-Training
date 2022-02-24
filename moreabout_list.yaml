@@ -1,0 +1,29 @@
+ brands_information: 
+   - name: louis vuitton
+     buyers: 237874
+     emailid: lv009@gmail.com
+     products:
+     - bags
+     - clothes
+
+   - name1: zara
+     buyers: 1455768
+     emailid: efbiewhfbf@comcom
+     products: [shirts, shoes, bags]
+
+
+ brands_information2: 
+   - name: forever
+     buyers: 237874
+     emailid: forever89@gmail.com
+     products:
+     - bags
+     - clothes
+
+   - name1: gucci
+     buyers: 1455768
+     emailid: efbiewhfbf@comcom
+     products: [shirts, shoes, handbags]
+
+#employee-information.name == ali, alina
+#employee-information_batch2.sapid == 

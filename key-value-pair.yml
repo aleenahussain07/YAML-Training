@@ -1,0 +1,13 @@
+--- #initialization of yaml
+famous_places: 
+   - name: Taj mahal
+     visitors: 10000
+     emailid: famousplaces@gmail.com
+... # end of yaml
+
+
+
+---
+city: noida
+state: up
+...

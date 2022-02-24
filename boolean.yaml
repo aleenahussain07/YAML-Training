@@ -1,0 +1,6 @@
+famous_places: 
+   - name: Taj mahal
+     visitors: 10000
+     emailid: famousplaces@gmail.com
+     availableto_visit: yes #true/false,on/off,yes/no
+     gate_entry: on
